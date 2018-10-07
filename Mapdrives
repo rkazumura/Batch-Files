@@ -1,1 +1,2 @@
 net map z:
+net stop service 
