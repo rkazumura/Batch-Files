@@ -1,1 +1,4 @@
 net map z:
+#Make sure this works for windows 
+#how to load this from linux 
+Net stop spooler
